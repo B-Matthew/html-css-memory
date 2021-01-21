@@ -102,25 +102,11 @@ h1 {
   color: orange;
 }
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 /* Regole Footer */
+
+#finale {
+  font-size: 20px;
+  position: absolute;
+  bottom: 100px;
+  left: 800px;
+}
