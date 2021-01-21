@@ -1,3 +1,5 @@
+/* Regole Generali */
+
 @import url('https://fonts.googleapis.com/css2?family=Nerko+One&display=swap');
 
 * {
@@ -11,6 +13,7 @@ body {
   background-color: #ADD8E6;
 }
 
+/* Regole Header */
 h1 {
   color: white;
   font-size: 90px;
@@ -18,3 +21,36 @@ h1 {
   text-shadow: 1px 1px black;
   margin-top: 20px;
 }
+
+/* Regole Main */
+.container {
+  width: 50%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+
+.cards {
+  background-color: white;
+  width: 170px;
+  height: 200px;
+  display: inline-block;
+  margin-right: 25px;
+  margin-top: 25px;
+  border-radius: 10px;
+  background-image: url("../img/pattern.png");
+  background-size: contain;
+  box-shadow: 0 0 1px #333;
+}
+
+
+
+
+
+
+
+
+
+
+
+/* Regole Footer */
