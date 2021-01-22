@@ -88,6 +88,7 @@ img {
 #finale {
   font-size: 20px;
   position: absolute;
-  bottom: 50px;
-  left: 45%;
+  bottom: 100px;
+  width: 100%;
+  text-align: center;
 }
